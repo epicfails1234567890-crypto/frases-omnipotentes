@@ -3,6 +3,11 @@
 <img width="566" height="500" alt="frase 29 (1)" src="https://github.com/user-attachments/assets/1a7d52a5-b219-487e-b0f8-6369caed1b65" />
 <img width="566" height="500" alt="frase 29" src="https://github.com/user-attachments/assets/6db7cb33-4456-416e-84ae-712325821a0b" />
 <img width="566" height="500" alt="frase 28 (1)" src="https://github.com/user-attachments/assets/fa2f536f-a37c-43a1-97ef-2b4c7473d788" />
+<img width="566" height="500" alt="frase 11 (1)" src="https://github.com/user-attachments/assets/8ff05694-e128-4342-a967-492c19888727" />
+<img width="566" height="500" alt="frase 11" src="https://github.com/user-attachments/assets/ec51f533-c6df-4a10-9d64-ee511bc5391e" />
+<img width="566" height="500" alt="frase 10 (1)" src="https://github.com/user-attachments/assets/415d133e-1b3b-48bd-a782-ba282537ff28" />
+<img width="566" height="500" alt="frase 10" src="https://github.com/user-attachments/assets/99b4cf5b-e22c-48c5-a77d-c03381e29973" />
+<img width="566" height="500" alt="frase 1" src="https://github.com/user-attachments/assets/7ff6c7a3-550e-4449-aa27-19846d04ea31" />
 
 
 <img width="566" height="500" alt="frase 28" src="https://github.com/user-attachments/assets/e8daf0d4-4645-4c30-b1d7-e551eea5d61b" />
