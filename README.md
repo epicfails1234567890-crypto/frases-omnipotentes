@@ -1,5 +1,20 @@
-# frases-omnipotentes
+# frases-omnipotentes<img width="566" height="500" alt="frase 3 (1)" src="https://github.com/user-attachments/assets/c3fcef73-b719-47fa-a884-134a5be1447f" />
+<img width="566" height="500" alt="frase 3" src="https://github.com/user-attachments/assets/b5ad632a-a902-4a27-84a6-c70bae2cc26d" />
+<img width="566" height="500" alt="frase 29 (1)" src="https://github.com/user-attachments/assets/1a7d52a5-b219-487e-b0f8-6369caed1b65" />
+<img width="566" height="500" alt="frase 29" src="https://github.com/user-attachments/assets/6db7cb33-4456-416e-84ae-712325821a0b" />
+<img width="566" height="500" alt="frase 28 (1)" src="https://github.com/user-attachments/assets/fa2f536f-a37c-43a1-97ef-2b4c7473d788" />
 
+
+<img width="566" height="500" alt="frase 28" src="https://github.com/user-attachments/assets/e8daf0d4-4645-4c30-b1d7-e551eea5d61b" />
+<img width="566" height="500" alt="frase 27 (1)" src="https://github.com/user-attachments/assets/6787d4c2-adbc-45e1-af53-5be7e7eb8cb8" />
+<img width="566" height="500" alt="frase 27" src="https://github.com/user-attachments/assets/6f77fc9f-cc5b-4723-9820-2d857c52bd38" />
+<img width="566" height="500" alt="frase 26 (1)" src="https://github.com/user-attachments/assets/5186a072-cb1b-4b4e-81fc-6828e2e1ba9f" />
+<img width="566" height="500" alt="frase 26" src="https://github.com/user-attachments/assets/68883118-202c-44ad-916b-241b1707a763" />
+<img width="566" height="500" alt="frase 25 (1)" src="https://github.com/user-attachments/assets/724f5511-955e-4c0e-ab80-0e1a7d91127f" />
+<img width="566" height="500" alt="frase 25" src="https://github.com/user-attachments/assets/f4cc8329-cbab-4138-a267-871430cc58ba" />
+<img width="566" height="500" alt="frase 24 (1)" src="https://github.com/user-attachments/assets/543097ae-2019-4ccb-aef5-67423eea9410" />
+<img width="566" height="500" alt="frase 24" src="https://github.com/user-attachments/assets/d11e6327-defb-4df8-a10e-100a5d0c9093" />
+<img width="566" height="500" alt="frase 23" src="https://github.com/user-attachments/assets/5c382e67-6e9e-4ec6-a25a-7faa5f17e36e" />
 <img width="566" height="500" alt="frase 5" src="https://github.com/user-attachments/assets/bb88922f-63bc-4870-9183-ff9c7610afac" />
 <img width="566" height="500" alt="frase 9 (1)" src="https://github.com/user-attachments/assets/ea586723-a802-4712-b700-09754b1dc7d1" />
 <img width="566" height="500" alt="frase 9" src="https://github.com/user-attachments/assets/b8583dc7-af76-4527-8e4c-3601e9d9412c" />
